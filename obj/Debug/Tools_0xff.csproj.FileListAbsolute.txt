@@ -1,0 +1,15 @@
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\bin\Debug\Tools_0xff.exe.config
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\bin\Debug\Tools_0xff.exe
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\bin\Debug\Tools_0xff.pdb
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.csprojAssemblyReference.cache
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\MainWindow.g.cs
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\App.g.cs
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff_MarkupCompile.cache
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff_MarkupCompile.lref
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\MainWindow.baml
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.g.resources
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.Properties.Resources.resources
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.csproj.GenerateResource.cache
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.csproj.CoreCompileInputs.cache
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.exe
+C:\Users\LauOK\Desktop\C# project\Tools_0xff\obj\Debug\Tools_0xff.pdb
